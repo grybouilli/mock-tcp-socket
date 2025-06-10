@@ -1,7 +1,7 @@
 # Mocking a TCP socket for unit testing in C++
 ## Introduction
 
-This code is a support material for [an article that you can find here](). It is a demonstration of how to mock a TCP socket in C++ in order to conduct unit testing on smaller parts of a client/server app.
+This code is a support material for [an article that you can find here](https://medium.com/@grybouilli/mocking-a-tcp-socket-for-unit-testing-in-c-737040365994). It is a demonstration of how to mock a TCP socket in C++ in order to conduct unit testing on smaller parts of a client/server app.
 
 ## Build
 
